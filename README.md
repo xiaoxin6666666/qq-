@@ -5,7 +5,7 @@
 
 下述命令均在项目根目录下执行。
 
-原项目地址：[RockChinQ/QChatGPT](https://github.com/RockChinQ/QChatGPT)
+
 
 ## 1. 安装 Docker和 Docker Compose
 
